@@ -12,6 +12,11 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
 
     <link rel="stylesheet" href="css/master.css" media="screen" title="no title" charset="utf-8">
+
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+    <meta http-equiv="Pragma" content="no-cache" />
+    <meta http-equiv="Expires" content="0" />
+
   </head>
 
   <body>
@@ -29,63 +34,30 @@
         </p>
       </div>
       <div class="col-md-6 col-xs-12 col-sm-6">
-        <h1>Paaspakket winnen</h1>
-        <p>
-          Ongeveer 30 ondernemers uit Spekholzerheide hebben spulletjes gesponsord waar leuke paaspakketten van zijn gemaakt (onderaan de pagina vindt u een opsomming van deze ondernemers). Iedereen die op Paaszaterdag tussen 12:00 en 16:00 uur bij de Paashaas op het Carboonplein een kassabon met zijn of haar naam en telefoonnummer inlevert, maakt kans op één van de pakketjes. Hoe meer kassabonnen u inlevert, hoe meer kans u maakt!
-        </p>
-      </div>
-      <div class="col-md-6 col-xs-12 col-sm-6">
         <h1>Voor iedereen - Gratis narcissen</h1>
         <p>
-          Op de Akerstraat en het Carboonplein worden tussen 12:00 en 16:00 uur gratis narcissen aan bezoekers uitgedeeld. Gewoon als een kleine attentie omdat het wij hopelijk snel weer van mooi voorjaarsweer kunnen genieten.
+          Op de Akerstraat en het Carboonplein worden tussen 12:00 en 15:00 uur gratis narcissen aan bezoekers uitgedeeld. Gewoon als een kleine attentie omdat het wij hopelijk snel weer van mooi voorjaarsweer kunnen genieten.
         </p>
       </div>
       <div class="col-md-6 col-xs-12 col-sm-6">
-        <h1>Sponsorende ondernemers</h1>
+        <h1>Foto's</h1>
         <p>
           Op Paaszaterdag worden - door een professionele fotograaf - ook mooie foto's gemaakt. Na afloop worden de foto's op de <a href="http://carboon.nl/facebook">Facebookpagina van Carboon</a> geplaatst. De mensen op de foto met de meeste Likes winnen een mooi cadeaupakket.
-        </p>
-      </div>
-      <div class="col-md-12 col-xs-12 col-sm-12">
-        <h1>Met dank aan</h1>
-        <p>
-          Alle ondernemers in de Akerstraat en aan het Carboonplein hebben een bijdrage geleverd in de realisatie van de Paasactie. De volgende ondernemers - bijna iedereen - hebben daarbovenop nog een extra bijdrage geleverd.<br>
-        </p>
-        <p><br>
-          Bakker Brouns,
-          Barbershop,
-          BE Scooters,
-          Bloemen en meer,
-          Blokker,
-          Brasserie Carboon,
-          Brood & Banketbakkerij Kengen,
-          Crazy Fashion,
-          De Hakkenbar,
-          De Tapijtenhal,
-          Devils-Road-Tattoos,
-          DIVA Kleding Nailstyling & accessiores,
-          Eran Floor V.O.F,
-          Franssen Verhuur,
-          Hendriks Bloemen,
-          Het Opscheertje,
-          Jan Linders,
-          Jumbo,
-          Kapsalon De Hoofdzaak,
-          Marhaba Abdoel,
-          Naaimachine Totaal,
-          Reloaded,
-          René Janssen Kapper,
-          Slagerij Schröder,
-          Spekhof Optiek,
-          Toma Cycles,
-          Traiteur Ritt,
-          Umberto's,
-          Uw Auto!,
-          Zapatos
         </p>
       </div>
     </div>
 
   </body>
+
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-70028764-1', 'auto');
+    ga('send', 'pageview');
+
+  </script>
 
 </html>
